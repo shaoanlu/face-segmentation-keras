@@ -7,6 +7,8 @@ A port of [YuvalNirkin/face_segmentation](https://github.com/YuvalNirkin/face_se
   - This notebook download FCN8s caffe model from YuvalNirkin's repo and convert it to a keras weights file.
 2. [FCN8s_keras_demo.ipynb](https://github.com/shaoanlu/face_segmentation_keras/blob/master/FCN8s_keras_demo.ipynb)
   - This notebook is the demo of keras FCN8s for face segmentation.
+3. Keras weights file
+  - Converted keras weights file `Keras_FCN8s_face_seg_YuvalNirkin.h5` (through [FCN8s_caffe2keras_weights.ipynb](https://github.com/shaoanlu/face_segmentation_keras/blob/master/FCN8s_caffe2keras_weights.ipynb)) can be found [here](https://drive.google.com/open?id=1alyR6uv4CHt1WhykiQIiK5MZir7HSOUU).
 
 ## Results
 
