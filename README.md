@@ -12,7 +12,7 @@ A port of [YuvalNirkin/face_segmentation](https://github.com/YuvalNirkin/face_se
 
 ## Results
 
-Images are from [Pexels](https://www.pexels.com/), [GAHANG](http://gahag.net/), and [PAKUTASO](https://www.pakutaso.com/).
+**Update Jun. 5th, 2018:** The author contacted me, and [mentioned](https://github.com/shaoanlu/face-segmentation-keras/issues/3) that the the original model was trained on preprocessed (detection and crop) data. Applying the model on full images will yield poor results. Please visit the [original repo](https://github.com/YuvalNirkin/face_segmentation) for more detail.
 
 ### Successful cases
 
@@ -27,3 +27,6 @@ Images are from [Pexels](https://www.pexels.com/), [GAHANG](http://gahag.net/), 
 ![4](https://www.dropbox.com/s/picdtqxkqkp76gz/4.png?raw=1)
 
 ![5](https://www.dropbox.com/s/9lufy3b5c0dnxei/5.png?raw=1)
+
+
+###### Images are from [Pexels](https://www.pexels.com/), [GAHANG](http://gahag.net/), and [PAKUTASO](https://www.pakutaso.com/).
