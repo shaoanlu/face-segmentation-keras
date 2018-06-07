@@ -12,7 +12,7 @@ A port of [YuvalNirkin/face_segmentation](https://github.com/YuvalNirkin/face_se
 
 ## Results
 
-**Update Jun. 5th, 2018:** The author contacted me, and [mentioned](https://github.com/shaoanlu/face-segmentation-keras/issues/3) that the the original model was trained on preprocessed (detection and crop) data. Applying the model on full images, such as the following examples, will yield poor results. Please visit the [original repo](https://github.com/YuvalNirkin/face_segmentation) for more detail.
+**Update Jun. 5th, 2018:** The author contacted me, and [mentioned](https://github.com/shaoanlu/face-segmentation-keras/issues/3) that the the original model was trained on preprocessed (detecting and cropping) data. Applying the model on full images, such as the following examples, will yield poor results. Please visit the [official repo](https://github.com/YuvalNirkin/face_segmentation) for more detail.
 
 ### Successful cases
 
